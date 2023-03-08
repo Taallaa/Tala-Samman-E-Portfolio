@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&display=swap');
+
+body {
+    background-color: #F8EFFF;
+    width: 1440px;
+}
+
+.containerheader {
+    font-family: 'Inter', sans-serif;
+    margin: 40px auto;
+}
+
+.portfolio {
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+margin-right: 100px;}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+margin-left: 670px;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+ 
+}.containerheader h1{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline;
+}
+nav ul a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 60px;
+}
+nav ul li a :hover {
+    color: black;
+}
+
+.right img {
+    margin-left: 1100px;
+    margin-top: -300px;
+    margin-bottom: 700px;
+ width: 190px;
+}
+
+.container_left_side1 img {
+    width: 400px;
+    margin-top: -900px;
+    margin-bottom: 400px;
+    margin-left: 150px;
+}
+.port1text {
+    font-family: 'Inter', sans-serif;
+    width: 300px;
+    margin-top: -400px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+}
+
+.container_right_side1 img {
+    width: 400px;
+    margin-top: -950px;
+    margin-bottom: 500px;
+    margin-left: 900px;
+}
+
+.port2text {
+    font-family: 'Inter', sans-serif;
+    width: 300px;
+    margin-top: -500px;
+    margin-bottom: 500px;
+    margin-left: 950px;
+}
+
+.container_left_side2 img {
+    width: 400px;
+    margin-top: -1900px;
+    margin-bottom: 500px;
+    margin-left: 200px;
+}
+
+.port3text {
+    font-family: 'Inter', sans-serif;
+    width: 300px;
+    margin-top: -500px;
+    margin-bottom: 500px;
+    margin-left: 275px;
+}
+
+.container_right_side2 img {
+    width: 400px;
+    margin-top: -1300px;
+    margin-bottom: 1500px;
+    margin-left: 850px;
+}
+
+.port4text {
+    font-family: 'Inter', sans-serif;
+width: 300px;
+margin-top: -1500px;
+margin-bottom: 1500px;
+margin-left: 920px;
+}
+
+.container_left_side3 img {
+    width: 400px;
+    margin-top: -4500px;
+    margin-bottom: 1900px;
+    margin-left: 150px;
+}
+
+.port5text {
+    font-family: 'Inter', sans-serif;
+margin-top: -1900px;
+margin-bottom: 200px;
+margin-left: 100px;
+}
+
+.container_right_side3 img {
+    width: 400px;
+    margin-top: -180000px;
+    margin-bottom: 2000px;
+    margin-left: 800px;
+}
+
+.port6text {
+    font-family: 'Inter', sans-serif;
+margin-top: -2000px;
+margin-bottom: 1000px;
+margin-left: 780px;
+}
+
+.contactme img {
+    width: 150px;
+    margin-left: 650px;
+    margin-bottom: 2700px;
+    margin-top: -9000px;
+}

@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&display=swap');
+
+
+body{
+    background-color: #F8EFFF;
+    width: 1440px;
+}
+/*header part*/
+.containerheader {
+    font-family: 'Inter', sans-serif;
+    margin: 40px auto;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+ 
+}
+
+.containerheader h1{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline;
+}
+nav ul a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 60px;
+}
+nav ul li a :hover {
+    color: black;
+}
+/*middle part*/
+.containerpara_left_side{
+    display: flex;
+}
+.left{
+    font-family: 'Inter', sans-serif;
+    margin-top: 150px;
+}
+
+.left {
+    margin-left: 40px;
+}
+.left img{
+    width: 300px;
+}
+.center{
+    font-family: 'Inter', sans-serif;
+    margin-left: 150px;
+}
+.center img{
+    width: 450px;
+}
+
+.rightext {
+    margin-top: 1px;
+}
+
+.rightext {
+    font-family: 'Inter', sans-serif;
+
+}
+
+.rightext {
+    margin-left: 10px;
+}
+
+.containerfooter{
+    display: flex;
+    margin-top: 50px;
+}
+.icons{
+    margin-left: 120px;
+}
+.containerfooter img {
+    margin-right: 20px;
+}
+
+.containerfooter img {
+    width: 40px;
+}
+
+.containerfooter {
+    display: flex;
+}
+
+.footertext {
+    margin-right: 250px;
+}
+
+.footertext {
+    margin-left: 50px;
+}
+
+.footertext {
+    font-family: 'Inter', sans-serif;
+}
+.footertext {
+    margin-top: 1px;
+}
+
+.rightext img {
+    
+    margin-left: 140px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 180px;
+}
+
+
+/*
+.containerpara_left_side {
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+}
+
+.containerpara_side {
+    text-align: right;
+    font-family: 'Inter', sans-serif;
+}
+
+.containerpara_left_side {
+    flex: 3px;
+}
+
+.containerpara_left_side img {
+    max-width: 30%;
+}
+
+.containerpara_side {
+    flex: 3px;
+}
+
+.containerfooter {
+    font-family: 'Inter', sans-serif;
+}
+
+.containerfooter img {
+    max-width: 2%;
+}
+
+.containerfooter img {
+    margin: 10px;
+}*/
+
